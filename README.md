@@ -4,9 +4,8 @@
 
 <h2 align="center">Hi, I'm Dennis Mundial 👋</h2>
 
-<p align="center">
-  🧑‍⚕️ | 👨‍💻 | 📊  
-  Medical Professional | Data Scientist | AI for Good Advocate
+<p align="center">  
+ 🧑‍⚕️ Medical Professional | 👨‍💻 Data Scientist | 📊 AI for Good Advocate
 </p>
 
 ---
