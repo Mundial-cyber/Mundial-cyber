@@ -19,9 +19,9 @@ I'm a healthcare professional and data scientist, passionate about leveraging AI
 
 ### 🛠️ Skills & Tools
 
-<img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f3fd.png" width="40" /> - **Languages:** Python, SQL  
+<img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c8.png" width="40" /> - **Languages:** Python, SQL  
 <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f4bb.png" width="40" /> - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, NLTK  
-<img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c8.png" width="40" />- **Tools:** Jupyter, Git, VS Code, Power BI, Streamlit
+<img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c8.png" width="40" /> - **Tools:** Jupyter, Git, VS Code, Power BI, Streamlit
 
 ---
 
