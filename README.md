@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f44b.png" width="40" />
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/6uGh6hWl0nBa3t8N0d/giphy.gif" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f44b.png" width="40" />
   Hi, I'm Dennis Mundial
 </h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt5Z4EkwfNyV1Ak/giphy.gif" width="40" />
-  <img src="https://media.giphy.com/media/26FP9eqM3RRXzYpuE/giphy.gif" width="40" />
-  <img src="https://media.giphy.com/media/2w0biK8XOgaowd3G0p/giphy.gif" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f3fd.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f4bb.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c8.png" width="40" />
   Medical Professional | Data Scientist | AI for Good Advocate
 </p>
 
