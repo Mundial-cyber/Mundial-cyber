@@ -19,16 +19,16 @@ I'm a healthcare professional and data scientist, passionate about leveraging AI
 
 ### 🛠️ Skills & Tools
 
-- **Languages:** <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f3fd.png" width="40" /> Python, SQL  
-- **Libraries & Frameworks:** <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f4bb.png" width="40" /> Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, NLTK  
-- **Tools:** <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c8.png" width="40" /> Jupyter, Git, VS Code, Power BI, Streamlit
+<img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f3fd.png" width="40" /> - **Languages:** Python, SQL  
+<img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f4bb.png" width="40" /> - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, NLTK  
+<img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c8.png" width="40" />- **Tools:** Jupyter, Git, VS Code, Power BI, Streamlit
 
 ---
 
 ### 🚀 Featured Projects
 
 - **[🧬 Parkinson’s Disease Detection](https://github.com/Mundial-cyber/Data-Mambo/blob/master/Parkinsons.ipynb)**  
-  ML model to identify early signs of Parkinson’s using voice patterns.
+  ML model to identify early signs of Parkinson’s using clinical patterns.
 
 - **[🎤 Speech Emotion Recognition](https://github.com/Mundial-cyber/Data-Mambo/blob/master/Speech-Emotion-Recognition.ipynb)**  
   Teaching machines to detect human emotions through audio input.
