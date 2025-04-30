@@ -7,8 +7,8 @@
   Hi, I'm Dennis Mundial
 </h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FvWbfm8aIqsx74k/giphy.gif" width="40" />
-  <img src="https://media.giphy.com/media/9vOVd4gCpKK2w8tZ7Y/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/3o6Zt5Z4EkwfNyV1Ak/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/26FP9eqM3RRXzYpuE/giphy.gif" width="40" />
   <img src="https://media.giphy.com/media/2w0biK8XOgaowd3G0p/giphy.gif" width="40" />
   Medical Professional | Data Scientist | AI for Good Advocate
 </p>
