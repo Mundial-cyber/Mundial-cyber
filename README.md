@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f44b.png" width="40" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
 </p>
 
-<h2 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f44b.png" width="40" />
-  Hi, I'm Dennis Mundial
-</h2>
+<h2 align="center">Hi, I'm Dennis Mundial 👋</h2>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f3fd.png" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f4bb.png" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c8.png" width="40" />
+  🧑‍⚕️ | 👨‍💻 | 📊  
   Medical Professional | Data Scientist | AI for Good Advocate
 </p>
 
@@ -23,9 +19,9 @@ I'm a healthcare professional and data scientist, passionate about leveraging AI
 
 ### 🛠️ Skills & Tools
 
-- **Languages:** <img src="https://media.giphy.com/media/xUOxfwI1XtHlD6tNcQ/giphy.gif" width="40" /> Python, SQL  
-- **Libraries & Frameworks:** <img src="https://media.giphy.com/media/2wrVjSZhRL0p5l7IVV/giphy.gif" width="40" /> Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, NLTK  
-- **Tools:** <img src="https://media.giphy.com/media/xUPGcFwTbz27ZfxbRe/giphy.gif" width="40" /> Jupyter, Git, VS Code, Power BI, Streamlit
+- **Languages:** <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f3fd.png" width="40" /> Python, SQL  
+- **Libraries & Frameworks:** <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f4bb.png" width="40" /> Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, NLTK  
+- **Tools:** <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c8.png" width="40" /> Jupyter, Git, VS Code, Power BI, Streamlit
 
 ---
 
